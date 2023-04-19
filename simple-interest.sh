@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # DestinR5
+   # <DestinR5>
 
    # Input:
    # p, principal amount
